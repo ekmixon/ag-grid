@@ -48,7 +48,7 @@
     "@babel/plugin-transform-runtime": "7.13.10",
     "@babel/runtime": "7.13.10",
     "@babel/plugin-proposal-throw-expressions": "^7.12.1",
-    "@pmmmwh/react-refresh-webpack-plugin": "0.4.2",
+    "@pmmmwh/react-refresh-webpack-plugin": "0.5.0",
     "@svgr/webpack": "5.4.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -136,7 +136,7 @@
     "webpack-cli": "4.5.0",
     "ts-node": "9.1.1",
     "@types/webpack": "4.41.26",
-    "webpack-dev-server": "3.11.0",
+    "webpack-dev-server": "3.11.3",
     "webpack-manifest-plugin": "2.2.0",
     "workbox-webpack-plugin": "5.1.4"
   },
