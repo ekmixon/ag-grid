@@ -42,7 +42,7 @@
   ],
   "homepage": "http://www.ag-grid.com/",
   "dependencies": {
-    "@ag-grid-community/core": "~25.3.0",
+    "@ag-grid-community/core": "~28.0.2",
     "@ag-grid-enterprise/core": "~25.3.0",
     "@ag-grid-enterprise/side-bar": "~25.3.0"
   },
