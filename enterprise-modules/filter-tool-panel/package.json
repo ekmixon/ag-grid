@@ -44,7 +44,7 @@
   "dependencies": {
     "@ag-grid-community/core": "~25.3.0",
     "@ag-grid-enterprise/core": "~25.3.0",
-    "@ag-grid-enterprise/side-bar": "~25.3.0"
+    "@ag-grid-enterprise/side-bar": "~28.0.2"
   },
   "devDependencies": {
     "typescript": "~3.6.5"
