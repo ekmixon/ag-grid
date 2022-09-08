@@ -103,7 +103,7 @@
     "jest": "^25.4.0",
     "merge-stream": "1.0.1",
     "mini-css-extract-plugin": "1.6.0",
-    "node-sass": "6.0.0",
+    "node-sass": "7.0.2",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "popper.js": "1.14.4",
     "postcss-loader": "3.0.0",
