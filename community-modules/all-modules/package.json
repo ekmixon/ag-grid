@@ -59,7 +59,7 @@
     "@ag-grid-community/infinite-row-model": "~25.3.0"
   },
   "devDependencies": {
-    "css-loader": "^3.2.0",
+    "css-loader": "^4.0.0",
     "cssnano": "^4.1.0",
     "cypress": "^4.3.0",
     "gulp": "^4.0.2",
@@ -67,12 +67,12 @@
     "gulp-header": "^2.0.0",
     "gulp-sourcemaps": "^2.6.5",
     "merge2": "^1.2.0",
-    "postcss-loader": "^3.0.0",
+    "postcss-loader": "^4.0.0",
     "style-loader": "^1.0.0",
     "terser-webpack-plugin": "^2.0.1",
     "typescript": "~3.6.5",
-    "webpack": "^4.39.0",
-    "webpack-stream": "5.0.0"
+    "webpack": "^5.0.0",
+    "webpack-stream": "7.0.0"
   },
   "publishConfig": {
     "access": "public"
