@@ -17,7 +17,7 @@
     "glob": "^7.1.6",
     "glob-promise": "^3.4.0",
     "inquirer": "^7.0.0",
-    "puppeteer": "^2.0.0",
+    "puppeteer": "^3.0.0",
     "resemblejs": "^3.2.3",
     "ts-node": "^8.5.2",
     "tslint": "^5.20.1",
