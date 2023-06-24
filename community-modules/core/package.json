@@ -82,7 +82,7 @@
     "gulp-typescript": "^5.0.1",
     "gulp-uglify": "^3.0.0",
     "image-webpack-loader": "^6.0.0",
-    "jest": "^25.4.0",
+    "jest": "^26.0.0",
     "json-stable-stringify": "^1.0.0",
     "merge2": "^1.2.0",
     "mini-css-extract-plugin": "1.6.0",
@@ -102,8 +102,8 @@
     "url-loader": "^2.1.0",
     "vinyl-buffer": "^1.0.0",
     "vinyl-named": "^1.1.0",
-    "webpack": "4.46.0",
-    "webpack-stream": "5.0.0"
+    "webpack": "5.1.1",
+    "webpack-stream": "7.0.0"
   },
   "publishConfig": {
     "access": "public"
