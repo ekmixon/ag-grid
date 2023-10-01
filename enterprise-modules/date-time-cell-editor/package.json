@@ -49,7 +49,7 @@
   "devDependencies": {
     "@ag-grid-community/client-side-row-model": "~25.3.0",
     "awesome-typescript-loader": "^5.2.1",
-    "css-loader": "^3.4.2",
+    "css-loader": "^5.0.0",
     "html-webpack-plugin": "^4.0.1",
     "node-sass": "6.0.0",
     "sass-loader": "~10.2.0",
