@@ -30,7 +30,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-replace": "^1.0.0",
     "@ag-grid-community/polymer": "~25.3.0"
   }
