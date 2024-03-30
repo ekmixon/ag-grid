@@ -35,7 +35,7 @@
     "@vue/cli-service": "^3.11.0",
     "ag-grid-community": "~25.3.0",
     "@ag-grid-community/vue": "~25.3.0",
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.0",
     "gulp-replace": "^1.0.0",
     "gulp-typescript": "^5.0.0",
     "merge-stream": "^2.0.0",
