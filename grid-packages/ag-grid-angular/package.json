@@ -60,7 +60,7 @@
     "typescript": "~3.7.5",
     "replace-in-file": "^4.1.0",
     "typescript-simple": "8.0.6",
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.0",
     "gulp-replace": "^1.0.0"
   }
 }
