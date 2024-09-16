@@ -37,7 +37,7 @@
     "prop-types": "^15.6.2"
   },
   "devDependencies": {
-    "ag-grid-community": "~25.3.0",
+    "ag-grid-community": "~31.3.4",
     "@ag-grid-community/react": "~25.3.0",
     "@ag-grid-community/client-side-row-model": "~25.3.0",
     "@ag-grid-community/core": "~25.3.0",
