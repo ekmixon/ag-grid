@@ -82,7 +82,7 @@
     "gulp-typescript": "^5.0.1",
     "gulp-uglify": "^3.0.0",
     "image-webpack-loader": "^6.0.0",
-    "jest": "^25.4.0",
+    "jest": "^27.0.2",
     "json-stable-stringify": "^1.0.0",
     "merge2": "^1.2.0",
     "mini-css-extract-plugin": "1.6.0",
