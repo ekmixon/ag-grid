@@ -9,7 +9,7 @@
   "author": "AG Grid",
   "license": "ISC",
   "devDependencies": {
-    "@vusion/webfonts-generator": "^0.6.0",
+    "@vusion/webfonts-generator": "^0.7.0",
     "glob": "^7.1.6"
   }
 }
