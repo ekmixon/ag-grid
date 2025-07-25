@@ -30,11 +30,11 @@
     "hash": "sh ../../scripts/hashDirectory.sh > .hash"
   },
   "devDependencies": {
-    "ag-charts-community": "~3.3.0",
+    "ag-charts-community": "~9.3.2",
     "@types/node": "12.12.22",
     "@vue/cli-plugin-typescript": "^3.11.0",
-    "@vue/cli-plugin-unit-jest": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-plugin-unit-jest": "^5.0.0",
+    "@vue/cli-service": "^5.0.1",
     "gulp": "^4.0.0",
     "gulp-typescript": "^5.0.0",
     "typescript": "^3.6.0",
